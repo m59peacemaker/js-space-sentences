@@ -1,6 +1,6 @@
 {
   "name": "space-sentences",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds space after sentences that don't have any.",
   "main": "index.js",
   "scripts": {

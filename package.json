@@ -1,0 +1,30 @@
+{
+  "name": "space-sentences",
+  "version": "1.0.0",
+  "description": "Adds space after sentences that don't have any.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m59peacemaker/js-space-sentences"
+  },
+  "keywords": [
+    "space",
+    "sentences",
+    "string"
+  ],
+  "author": {
+    "name": "Johnny Hauser",
+    "email": "johnnyhauser@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m59peacemaker/js-space-sentences/issues"
+  },
+  "homepage": "https://github.com/m59peacemaker/js-space-sentences",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
+}

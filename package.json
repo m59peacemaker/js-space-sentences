@@ -1,6 +1,6 @@
 {
   "name": "space-sentences",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Adds space after sentences that don't have any.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "name": "Johnny Hauser",
     "email": "johnnyhauser@gmail.com"
   },
-  "license": "MIT",
+  "license": "CC0-1.0",
   "bugs": {
     "url": "https://github.com/m59peacemaker/js-space-sentences/issues"
   },
